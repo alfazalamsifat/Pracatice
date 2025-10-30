@@ -1,0 +1,50 @@
+*{
+    font-family: "sans-serif" ;
+}
+h1{
+    color:#a82400
+}
+.upvote{
+    color :white;
+    background-color: green;
+}
+.upvote+button{
+    color:white;
+    background-color: red;
+}
+p+h3{
+    color:#a82400;
+}
+#login{
+    color:white;
+    background-color: blue;
+    padding: black ;
+    border: 1px;
+    border-radius: 5px;
+}
+#signup{
+    color:blue;
+    background-color: white;
+    padding:black
+    border:0px;
+    border-radius: 5px;
+}
+div input{
+    color:blanchedalmond;
+    background-color: cornsilk;
+}
+nav ul li a{
+    text-decoration: none;
+    color:darkcyan;
+}
+nav ul li{
+    color: #a82400;
+}
+p{
+    color: orange;
+
+}
+p a{
+    text-decoration:  double  underline;
+    color:rgb(17, 154, 154)
+}}

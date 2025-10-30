@@ -1,0 +1,31 @@
+*{
+    font-family: 'Courier New';
+
+}
+h1{
+    color:#1b74e4;
+}
+#searchbtn{
+    background-color: black;
+    color: white;
+}
+.userbtn{
+    background-color: aqua;
+}
+h1:hover{
+    text-decoration: red underline;
+    color:black;
+}
+.userbtn:active{
+    background-color: blue;
+    color: white;
+}
+input[type="text"]:active{
+    color:rgb(216, 216, 216);
+    background-color: rgb(143, 13, 13);
+    
+}
+input[type="radio"]:checked+label {
+    color: rgb(64, 95, 209);
+    font-weight: bold;
+}
