@@ -1,0 +1,19 @@
+div{
+    height: 100px;
+    width: 500px;
+    padding: 20px;
+    margin: 20px 30px 40px 80px;
+    background-color: palevioletred;
+    border-style:dotted;
+    border-color: black;
+    border-width:5px;
+    border-bottom-right-radius: 50px;
+    border-top-left-radius:50px ;
+    text-align: center;
+}
+h1{
+    border: 7px dashed green;
+    width: 244px;
+    display: inline;
+}
+s
