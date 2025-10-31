@@ -1,0 +1,42 @@
+*{
+    background-color:aqua ;
+}
+
+.three{
+    background-color: black;
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    display: inline-block;
+    position: absolute;
+    top:50px;
+    left:40px;
+    
+}
+.two{
+    height: 180px;
+    width: 180px;
+    border-radius: 50%;
+    background-color: yellow;
+    
+
+}
+.threee{
+    background-color: brown;
+    height: 30px;
+    width: 90px;
+    border-radius: 0px 0px 20px 20px;
+   position: absolute;
+   top:120px;
+   left:45px;
+}
+.threeee{
+    background-color: black;
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    display: inline-block;
+    position: absolute;
+    top:50px;
+    left:100px;
+}
